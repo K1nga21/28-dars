@@ -10,5 +10,5 @@ print(tyil in pi)
 
 # pi = float(pi)
 
-# with open('amaliyot/pi_float.dat','wb') as file:
+# with open('pi_float.dat','wb') as file:
 #     pickle.dump(pi,file)
